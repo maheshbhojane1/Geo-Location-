@@ -31,9 +31,9 @@
     transition: ease-in-out 0.3s;
 }
 
-.showDetails{
+.showDetails, .fullAddress{
     margin-top: 10px;
     font-size: 30px;
     font-weight: 600;
-    color: #fff;
+    color: #000;
 }
